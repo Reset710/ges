@@ -1,8 +1,7 @@
 {
-  "name": "Your App Name",
-  "short_name": "App Name",
-  "start_url": "/g.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff"
+"name": "dcode PWA example",
+"short_name": "dcode PWA example",
+"start_url": ".",
+"background_color": "#6dcdb1",
+"theme_color": "#009578"
 }
